@@ -1,0 +1,363 @@
+.ue{
+    height: 100px;
+    width: 1300px;
+    font-size: 21px;
+    margin:0 auto;
+    display: flex;
+}
+.title{
+    width: 650px;
+    margin:0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    width: 650px;
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.pic{
+    background-image:url(../mainbg.png) ;
+    width: 1300px;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    margin:0 auto;
+}
+.pic h1{
+    color: white;
+    text-align: center;
+    padding-top: 130px;
+}
+.pic p{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    line-height: 1px;
+}
+.setsu h1{
+    font-size: 30px;
+    color: gold;
+    font-weight: 90px;
+    text-align: center;
+    line-height: 60px;
+
+}
+.setsu h2{
+    text-align: center;
+    line-height: 30px;
+}
+.setsu h3{
+    text-align: center;
+    line-height: 60px;
+}
+.setsu p{
+    text-align: center;
+}
+.setsu h4{
+    text-align: center;
+    height: 60px;
+}
+.corse1 h1{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+    line-height: 60px;
+    color: gold;
+    font-weight: 900;
+}
+.corse1 p{
+    text-align: center;
+    line-height: 30px;
+}
+.pic04{
+    width: 1400px;
+    margin:0 auto;
+    height: 255px;
+    display: flex;
+    justify-content: space-between;
+}
+.pic02 img{
+    width: 100%;
+    height: 255px;
+    object-fit: cover;
+}
+.picsetu{
+    height: 400px;
+    width: 1300px;
+    margin:0 auto;
+    display: flex;
+    justify-content: flex-end;
+}
+.picsetu01{
+    width: 650px;
+    margin:0 auto;
+    height: 400px;
+}
+.picsetu01 img{
+    width: 100%;
+    object-fit: cover;
+    height: 400px;
+}
+.picsetu02{
+    background-color: wheat;
+    width: 650px;
+    margin:0 auto;
+    height: 400px;
+}
+.picsetu02 h1{
+    font-size: 20px;
+    text-align: left;
+    padding-top: 110px;
+    padding-left: 50px;
+
+}
+.picsetu02 p{
+    font-size: 13px;
+    padding-left: 50px;
+    padding-right: 150px;
+    padding-top: 40px;
+    line-height: 30px;
+}
+.picsetu2{
+    background-color: black;
+    height: 400px;
+    width: 1300px;
+    margin:0 auto;
+    display: flex;
+    justify-content: flex-end;
+}
+.picsetu2_1{
+    background-color:wheat;
+    width: 650px;
+    margin:0 auto;
+    height: 400px;
+}
+.picsetu2_1 h1{
+    font-size: 20px;
+    text-align: right;
+    padding-top: 110px;
+    padding-right: 240px;
+}
+.picsetu2_1 p{
+    font-size: 13px;
+    padding-right: 50px;
+    padding-left: 150px;
+    padding-top: 40px;
+    line-height: 30px;
+}
+.picsetu2_2{
+    background-color: blueviolet;
+    width: 650px;
+    margin:0 auto;
+    height: 400px;
+}
+.picsetu2_2 img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+.picsetu3{
+    background-color:palegreen;
+    height: 400px;
+    width: 1300px;
+    margin:0 auto;
+    display: flex;
+    justify-content: flex-end;
+}
+.picsetu3_1{
+    background-color:peru;
+    width: 650px;
+    margin:0 auto;
+    height: 400px;
+}
+.picsetu3_1 img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+.picsetu3_2{
+    background-color:wheat;
+    width: 650px;
+    margin:0 auto;
+    height: 400px;
+}
+.picsetu3_2 h1{
+    font-size: 20px;
+    text-align: left;
+    padding-top: 110px;
+    padding-left: 50px;
+}
+.picsetu3_2 p{
+    font-size: 13px;
+    padding-right: 150px;
+    padding-left: 50px;
+    padding-top: 40px;
+    line-height: 30px;
+}
+.nnn{
+    height: 100px;
+    width: 1300px;
+    margin:0 auto;
+}
+.nnn h1{
+    text-align: center;
+    color: gold;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 30px;
+    margin-top: 60px;
+}
+.nnn p{
+    text-align: center;
+    font-size: 15px;
+    line-height: 50px;
+}
+.piza{
+    height: 300px;
+    width: 960px;
+    margin:0 auto;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+.piza1{
+    height: 300px;
+    width: 300px;
+    margin:0 auto;
+    margin-bottom: 20px;
+}
+
+.piza1 a :hover{
+    opacity: 0.5;
+    transition: 0.3s;
+}
+
+.more{
+    background-color: gold;
+    width: 300px;
+    margin:0 auto;
+    height: 60px;
+    margin-bottom: 60px;
+    margin-top: 100px;
+}
+.more:hover{
+    opacity: 0.6;
+}
+.more h2{
+    font-size: 18px;
+    text-align: center;
+    padding-top: 20px;
+}
+.ac{
+    background-color: silver;
+    width: 1300px;
+    margin:0 auto;
+    height: 500px;
+}
+.acac h1{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+    color: gold;
+    font-weight: 900;
+}
+.acac p{
+    text-align: center;
+    line-height: 60px;
+}
+.chizu{
+    width: 1300px;
+    margin:0 auto;
+    height: 350px;
+    display: flex;
+    justify-content: space-around;
+}
+iframe{
+    width: 500px;
+    aspect-ratio: 16/9;
+}
+.contact1 h1{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 80px;
+    color: gold;
+    font-weight: 900;
+}
+.contact1 h2{
+    text-align: center;
+    line-height: 40px;
+}
+.contact1 h3{
+    text-align: center;
+    line-height: 40px;
+}
+.contact1 p{
+    text-align: center;
+    line-height: 20px;
+}
+.hyou{
+    width: 500px;
+    margin:0 auto;
+
+}
+table{
+    text-align: center;
+    border-collapse: collapse;
+}
+th{
+    border-bottom: black 1px solid;
+    border-top: black 1px solid;
+}
+td{
+    border-bottom: black 1px solid;
+    border-left: black 1px solid;
+    border-top: black 1px solid;
+    width: 270px;
+}
+.cp_iptxt{
+    position: relative;
+    width: 90%;
+    margin: 15px 3%;
+}
+.check1{
+    display: block;
+}
+.box{
+    text-align: left;
+}
+label{
+    margin: 10px;
+}
+.sousin{
+    width: 300px;
+    margin:0 auto;
+    height: 60px;
+    background-color: gold;
+    margin-top: 20px;
+}
+.sousin h1{
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+    font-size: 20px;
+}
+.sousin:hover{
+    opacity: 0.5;
+    transition: 0.3s;
+
+}
+.copy{
+    width: 1300px;
+    margin:0 auto;
+    height: 50px;
+    background-color: silver;
+    margin-top: 30px;
+}
+.copy p{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
